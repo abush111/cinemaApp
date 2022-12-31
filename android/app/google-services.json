@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174426405167",
+    "project_id": "cinemapps-7604f",
+    "storage_bucket": "cinemapps-7604f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174426405167:android:bbd17b7bb279493cad89da",
+        "android_client_info": {
+          "package_name": "com.example.alema_cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174426405167-b6ophbit7n3n9rbtu1o1ch1bkja76i31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwKXexxzFC76n_82W_yuX83FjSk27wsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174426405167-b6ophbit7n3n9rbtu1o1ch1bkja76i31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
